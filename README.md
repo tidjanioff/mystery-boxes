@@ -25,7 +25,8 @@ You can try the project online here:
 
 ## 🛠️ Setup Instructions
 
-To get started with **Mystery Boxes™**, follow these simple steps:
+To run **Mystery Boxes™** locally on your machine, follow these simple steps:
+
 
 ### 1. Clone the Repository
 ```bash
