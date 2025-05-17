@@ -2,7 +2,9 @@
 
 **Mystery Boxes™** is a logic-based grid game where your mission is to uncover all hidden pieces using numerical clues. With only three chances to make a mistake, each move must be carefully considered. Think strategically and trust your deduction skills!
 
-![Mystery Boxes Logo](mysteryBoxesFolders/documents_mb/symboles/logoWObg.png)
+<p align="center">
+  <img src="mysteryBoxesFolders/documents_mb/symboles/logoWObg.png">
+</p>
 
 ## 🧠 Gameplay Overview
 
