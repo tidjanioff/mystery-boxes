@@ -16,6 +16,26 @@ Each tile in the grid displays a number representing how many hidden pieces are 
 - Use the numbers displayed on opened tiles to deduce where hidden pieces are.
 - Avoid making more than **three mistakes** (wrong guesses).
 
+## 🛠️ Setup Instructions
+
+To get started with **Mystery Boxes™**, follow these simple steps:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/mystery-boxes.git
+```
+### 2. Launch the Game
+
+Navigate to the project folder 
+
+```bash
+cd mystery-boxes/mysteryBoxesFolders
+```
+and open `mb.html` in your browser.
+
+You're all set — enjoy playing **Mystery Boxes™**!
+
+
 
 ## ⚙️ Technologies Used
 
