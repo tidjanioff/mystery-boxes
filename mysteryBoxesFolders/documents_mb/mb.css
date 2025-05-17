@@ -1,0 +1,124 @@
+#jeu table tr td {
+	width: 40px;
+	height: 40px;
+    color: black;
+	border: 1px solid black;
+	font-size: 20px;
+	font-family: Helvetica;
+	text-align: center;
+	vertical-align: center;
+	background-color: rgb(255, 253, 228);
+}
+
+.headJeu {
+	display: flex;
+	justify-content: center;
+}
+
+.bouton {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.theHead {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+}
+
+.play {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	color: #8B4513;
+	
+}
+
+.error, .nombre {
+	font-weight: lighter;
+	color:#8B4513;
+	text-decoration: none;
+}
+
+.nombreTitle, .errorTitle {
+	text-decoration: underline;
+}
+
+button {
+	background-color: rgb(255, 253, 228);
+	border: 2px solid #042123;
+	border-radius: 30px;
+	box-shadow: #083538 4px 4px 0 0;
+	color: #051d1f;
+	cursor: pointer;
+	display: inline-block;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 50px;
+	text-align: center;
+	text-decoration: none;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+}
+
+button:hover {
+	box-shadow: #001c25 2px 2px 0 0;
+	transform: translate(2px, 2px);
+	background-color: #fff;
+}
+
+.copyright {
+    position: fixed;
+    bottom: 0;
+	font-weight: bold;
+	text-align: center;
+}
+
+.headCopyright {
+	display: flex;
+	justify-content: center;
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.logo img {
+
+	width: 120px;
+	position: relative;
+    bottom: 0;
+
+}
+
+#navbar{
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
+
+#navbar a{
+	text-decoration: underline;
+	font-size: 1.2em;
+}
+
+.gamenavbar{
+	margin-right: 20px;
+}
+
+.headRules {
+	display: flex;
+	justify-content: center;
+	margin-top: 5px;
+	font-size: 1.1em;
+}
+
+.headRules a {
+	color:#8B4513;
+}
