@@ -22,7 +22,7 @@ To get started with **Mystery Boxes™**, follow these simple steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/mystery-boxes.git
+git clone https://github.com/tidjanioff/mystery-boxes.git
 ```
 ### 2. Launch the Game
 
