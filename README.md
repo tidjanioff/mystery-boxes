@@ -22,21 +22,23 @@ Each tile in the grid displays a number representing how many hidden pieces are 
 
 
 ## 📁 Project Structure
+```
 mystery-boxes/
 ├── mysteryBoxesFolders/
-│ └── documents_mb/
-│ ├── .idea/ # IDE configuration files 
-│ ├── .vscode/ # VS Code settings 
-│ ├── symboles/ # Additional assets 
-│ ├── codeboot.bundle.css # Styles related to the CodeBoot environment
-│ ├── codeboot.bundle.js # JavaScript bundled for CodeBoot or similar
-│ ├── guide.css # Stylesheet for guide.html
-│ ├── guide.html # Game instructions 
-│ ├── index.html # CodeBoot interface to view and run Python game logic in-browser
-│ ├── mb.css # Main styles for the game
-│ ├── mb.html # Main HTML file for the Mystery Boxes game
-│ ├── mb.py # Backend for the game
-│ ├── serveur-web.py # Basic web server in Python
-│ └── serveur-webMB.py # Web server tailored for the Mystery Boxes game
-├── README.md # Project documentation
+│   └── documents_mb/
+│       ├── .idea/                  # IDE configuration files
+│       ├── .vscode/                # VS Code settings
+│       ├── symboles/               # Additional assets
+│       ├── codeboot.bundle.css     # Styles related to the CodeBoot environment
+│       ├── codeboot.bundle.js      # JavaScript bundled for CodeBoot or similar
+│       ├── guide.css               # Stylesheet for guide.html
+│       ├── guide.html              # Game instructions
+│       ├── index.html              # CodeBoot interface to view and run Python game logic in-browser
+│       ├── mb.css                  # Main styles for the game
+│       ├── mb.html                 # Main HTML file for the Mystery Boxes game
+│       ├── mb.py                   # Backend for the game
+│       ├── serveur-web.py          # Basic web server in Python
+│       └── serveur-webMB.py        # Web server tailored for the Mystery Boxes game
+├── README.md                       # Project documentation
+```
 
