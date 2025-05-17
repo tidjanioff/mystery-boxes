@@ -39,11 +39,11 @@ Each tile in the grid displays a number representing how many hidden pieces are 
       - `guide.html` – Game instructions
       - `index.html` – CodeBoot interface to view and run Python game logic in-browser
       - `mb.css` – Main styles for the game
-      - `mb.html` – Main HTML file for the Mystery Boxes game
       - `mb.py` – Backend for the game
       - `serveur-web.py` – Basic web server in Python
       - `serveur-webMB.py` – Web server tailored for the Mystery Boxes game
   - `README.md` – Project documentation
+  - `mb.html` – Main HTML file for the Mystery Boxes game
 
 ---
 

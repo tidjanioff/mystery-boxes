@@ -39,7 +39,7 @@ def monHTML():
     monHTMLtemp.append('<h3 class="infos">Play!</h3>')
     monHTMLtemp.append('</div>')
     monHTMLtemp.append('<div class="headRules">')
-    monHTMLtemp.append('<div>Read the rules <a href="guide.html">here</a>.')
+    monHTMLtemp.append('<div>Read the rules <a href="mysteryBoxesFolders/documents_mb/guide.html">here</a>.')
     monHTMLtemp.append('</div>')
     monHTMLtemp.append('</div>')
     monHTMLtemp.append('<div class="theHead">')
@@ -91,7 +91,7 @@ def monHTML():
     monHTMLtemp.append('</div>')
     monHTMLtemp.append('</div>')
     monHTMLtemp.append('<div class="logo">')
-    monHTMLtemp.append('<img src="symboles/logo2.png">')
+    monHTMLtemp.append('<img src="mysteryBoxesFolders/documents_mb/symboles/logoWObg.png">')
     monHTMLtemp.append('</div>')
     monHTML = '\n'.join(monHTMLtemp)
     return monHTML
@@ -147,7 +147,7 @@ def placerPiecesCachees():
     for j in mesCasesCachees[len(mesCasesCachees)-1]:
       temp = str(j)
       uneCase = document.querySelector("#case"+temp)
-      uneCase.innerHTML = '<img src="symboles/coste.svg" id ="piece'+ temp + '" onclick="clic(' + temp+ ')" hidden="hidden"/>'
+      uneCase.innerHTML = '<img src="mysteryBoxesFolders/documents_mb/symboles/coste.svg" id ="piece'+ temp + '" onclick="clic(' + temp+ ')" hidden="hidden"/>'
 
 
 # Les fonctions suivantes représentent un découpage fonctionnel de la fonction
