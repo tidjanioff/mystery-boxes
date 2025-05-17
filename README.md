@@ -10,6 +10,13 @@
 
 Each tile in the grid displays a number representing how many hidden pieces are adjacent to it — including diagonals. Use this information to deduce the positions of the hidden elements and mark them. You win by correctly identifying all hidden pieces with no more than **three incorrect guesses**.
 
+
+## 🌐 Live Demo
+
+You can try the project online here:  
+🔗 [https://mystery-boxes.netlify.app/mb](https://mystery-boxes.netlify.app/mb)
+
+
 ## 🎯 Objective
 
 - Reveal all the hidden pieces on the grid.
