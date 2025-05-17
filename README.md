@@ -2,6 +2,8 @@
 
 **Mystery Boxes™** is a logic-based grid game where your mission is to uncover all hidden pieces using numerical clues. With only three chances to make a mistake, each move must be carefully considered. Think strategically and trust your deduction skills!
 
+![Mystery Boxes Logo](mysteryBoxesFolders/documents_mb/symboles/logoWObg.png)
+
 ## 🧠 Gameplay Overview
 
 Each tile in the grid displays a number representing how many hidden pieces are adjacent to it — including diagonals. Use this information to deduce the positions of the hidden elements and mark them. You win by correctly identifying all hidden pieces with no more than **three incorrect guesses**.
@@ -42,3 +44,6 @@ mystery-boxes/
 ├── README.md                       # Project documentation
 ```
 
+---
+
+© 2024 Mystery Boxes™ | Built by Tidjani. All rights reserved.
