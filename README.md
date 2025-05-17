@@ -22,7 +22,7 @@ Each tile in the grid displays a number representing how many hidden pieces are 
 
 
 ## 📁 Project Structure
-```
+
 mystery-boxes/
 ├── mysteryBoxesFolders/
 │   └── documents_mb/
@@ -40,5 +40,4 @@ mystery-boxes/
 │       ├── serveur-web.py          # Basic web server in Python
 │       └── serveur-webMB.py        # Web server tailored for the Mystery Boxes game
 ├── README.md                       # Project documentation
-```
 
