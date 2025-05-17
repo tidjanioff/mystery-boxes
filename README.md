@@ -1,6 +1,6 @@
 # 🎮 Mystery Boxes™
 
-**Mystery Boxes™** is a logic-based grid game where your mission is to uncover all hidden pieces using numerical clues. With only three chances to make a mistake, each move must be carefully considered. Think strategically and trust your deduction skills!
+[**Mystery Boxes™**](https://mystery-boxes.netlify.app/mb) is a logic-based grid game where your mission is to uncover all hidden pieces using numerical clues. With only three chances to make a mistake, each move must be carefully considered. Think strategically and trust your deduction skills!
 
 <p align="center">
   <img src="mysteryBoxesFolders/documents_mb/symboles/logoWObg.png">
@@ -75,4 +75,4 @@ You're all set — enjoy playing **Mystery Boxes™**!
 
 ---
 
-© 2024 Mystery Boxes™ | Built by Tidjani. All rights reserved.
+© 2024 **Mystery Boxes™** | Built by Tidjani. All rights reserved.
